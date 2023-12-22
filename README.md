@@ -1,5 +1,5 @@
 # Roy's automation scripts
-Automation scripts to make your days a little easier.
+Automation scripts to make our days a little bit easier.
 
 ___
 
